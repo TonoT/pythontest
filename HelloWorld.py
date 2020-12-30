@@ -1,5 +1,5 @@
 print("wwww")
-a = 21
+a = 212
 b = 10000
 bmi = a*b
 print(bmi)
